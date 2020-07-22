@@ -4,7 +4,7 @@ This script will help you to post random comic of [this comics]('https://xkcd.co
 Also in the `main function` you have to add `group ID` of the group you want it to be posted(you have to be a member of that group)  
 and `your user ID`
 
-```python
+```Python
 vk_group_id = 'group ID'  
 user_id = 'user ID'
 ```
